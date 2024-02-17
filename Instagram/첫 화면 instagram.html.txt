@@ -1,0 +1,7 @@
+첫 화면: instagram.html
+로그인 화면: login.html
+가입 화면: join.html
+로그인 : home.html
+
+home.html
+프로필 버튼: profile.html
